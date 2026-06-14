@@ -17,4 +17,4 @@ The goal of this project is simple:
 
 ### Live Site
 
-(Your GitHub Pages link will go here once it’s live.)
+https://shefiu-oloyede.github.io/Audio-portfolio/
