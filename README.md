@@ -1,6 +1,6 @@
 # Audio Engineering Portfolio
 
-This project is a simple, personal portfolio I built to show my work in dubbing, voiceover, audio editing, and supporting AI-related audio tasks. It includes audio samples, a breakdown of my workflow, and a clean layout that reflects how I approach real production work.
+This project is a simple, personal portfolio I built to show my work in dubbing, voiceover, audio editing and supporting AI related audio tasks. It includes audio samples, a breakdown of my workflow and a clean layout that reflects how I approach real production work.
 
 I created this site specifically for the contractor role, so everything here is focused on the skills you’re looking for:
 
