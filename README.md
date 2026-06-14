@@ -18,3 +18,4 @@ The goal of this project is simple:
 ### Live Site
 
 https://shefiu-oloyede.github.io/Audio-portfolio/
+Click above to view my audio engineering portfolio live.
